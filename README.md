@@ -1,1 +1,4 @@
-Vimrc files managed with pathogen
+dotvimrc-pathogen
+=================
+
+vimrc using pathogen
